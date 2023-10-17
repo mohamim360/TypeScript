@@ -14,7 +14,7 @@ This code demonstrates a simple web application that allows users to input two n
 - This file contains the JavaScript code equivalent to the TypeScript code.
 - The variables, functions, and event listeners are written using standard JavaScript.
 
-### TypeScript File (index.ts):
+### TypeScript File (using-ts.ts):
 
 - This file contains the TypeScript code.
 - It is essentially JavaScript with type annotations, providing stronger type checking and better tooling support.
@@ -31,7 +31,7 @@ This code demonstrates a simple web application that allows users to input two n
 
 ### Compile Process:
 
-- TypeScript needs to be transpiled into JavaScript to run in a browser. This is done using the TypeScript compiler (tsc). The "using-ts.js" file is the result of compiling "index.ts." The TypeScript code is converted into JavaScript code that browsers can understand.
+- TypeScript needs to be transpiled into JavaScript to run in a browser. This is done using the TypeScript compiler (tsc). The "using-ts.js" file is the result of compiling "using-ts.ts." The TypeScript code is converted into JavaScript code that browsers can understand.
 
 ## How to Compile TypeScript to JavaScript:
 
@@ -39,7 +39,7 @@ This code demonstrates a simple web application that allows users to input two n
 
 2. Compile the TypeScript code:
    - Open a terminal in the project directory.
-   - Run the TypeScript compiler: `tsc index.ts`
+   - Run the TypeScript compiler: `tsc using-ts.ts`
 
    This will generate a JavaScript file (using-ts.js) from the TypeScript code.
 

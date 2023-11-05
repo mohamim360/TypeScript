@@ -13,7 +13,7 @@ Below is a sample `tsconfig.json` file, which is used to configure TypeScript se
     "outDir": "./dist/"
   }
 }
-
+```
 
 ## Configuration Options
 

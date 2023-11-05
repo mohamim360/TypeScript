@@ -59,6 +59,12 @@ With NVM, you can easily manage Node.js versions:
   nvm use node_version
   ```
 
+  use the latest version
+
+  ```bash
+  nvm use latest
+  ```
+
 Now, let's dive into some additional information about NVM:
 
 ## Additional Information

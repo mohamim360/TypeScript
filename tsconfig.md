@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # TypeScript Configuration (tsconfig.json)
 
 Below is a sample `tsconfig.json` file, which is used to configure TypeScript settings for your project.
@@ -13,7 +13,7 @@ Below is a sample `tsconfig.json` file, which is used to configure TypeScript se
     "outDir": "./dist/"
   }
 }
-```
+
 
 ## Configuration Options
 
@@ -26,4 +26,3 @@ Below is a sample `tsconfig.json` file, which is used to configure TypeScript se
 You can customize these options according to your project's requirements.
 
 For more information on configuring TypeScript, please refer to the [official TypeScript documentation](https://www.typescriptlang.org/tsconfig).
-```
